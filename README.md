@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Oisín, a final year CS student at University College Cork.
+I'm Oisín, a CS graduate from Ireland.
