@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Oisín, a CS graduate from Ireland.
+I'm Oisín, a software engineer from Ireland.
